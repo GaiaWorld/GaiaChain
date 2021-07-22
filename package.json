@@ -46,7 +46,7 @@
     "upng-js": "^1.0.1",
     "walk": "^2.3.9",
     "webp-converter": "^2.1.6",
-    "xlsx": "^0.13.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "tslint": "^5.12.1",
